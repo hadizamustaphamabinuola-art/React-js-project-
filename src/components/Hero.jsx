@@ -1,4 +1,4 @@
-import heroImage from "../assets/images/hero-construction.jpg";
+import heroImage from "../assets/images/Hero-construction.jpg";
 import { motion } from "framer-motion";
 import { Link } from "react-router"
 
